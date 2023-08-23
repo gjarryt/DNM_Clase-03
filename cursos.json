@@ -1,0 +1,29 @@
+[
+    {
+    "name": "Galaxias y el Cosmos",
+    "code": "AST1527",
+    "about": "Bajo la mirada de la astrofísica moderna, el curso explora la formación, evolución y futuro del universo extragaláctico, partiendo desde la Vía Láctea y sus vecinos, pasando por las agrupaciones de galaxias, hasta la energía oscura y el universo primordial.<br><br>Escuela: Astrofísica<br>Docente: Patricia Tissera<br>Palabras clave: Universo extragaláctico, Galaxias, Energía oscura, Big Bang"
+    },
+    {
+    "name": "Experiencia Estetica y Religiosidad",
+    "code": "EST231C",
+    "about": "El curso explora la experiencia humana religiosa desde la doctrina mística, de revelación y sabiduría transmitidas mediante símbolos a las artes. Permite indagar tanto desde la teoría como desde la creación, entendiendo la experiencia estética como un ejercicio que permite experimentar el amor sagrado.<br><br>Escuela: Estética<br>Docente: Claudia Lira<br><br>Palabras clave: Experiencia estética, Experiencia religiosa, Arte, Simbolismo"
+    },
+    {
+    "name": "Verdad, Bien y Belleza",
+    "code": "FIL2003",
+    "about": "Como su nombre indica, el curso reflexiona en torno al bien, la verdad y la belleza, problemas fundamentales de la filosofía, conociendo las formas interdisciplinarias de interrogar la realidad que surgen desde las ciencias, artes y humanidades. .<br><br>Escuela: Filosofía<br>Docente: Andrés Covarrubias<br><br>Palabras clave: Verdad, Arte y belleza, Bien, Ética"
+    },
+    {
+    "name": "Introducción a la Lengua y Literatura Sánscritas",
+    "code": "LET103E",
+    "about": "Se trabaja un panorama general de la lengua sánscrita, tanto desde sus aspectos linguísticos (fonética, semántica, escritura, etc) como culturales y literarios que la moldearon en la India antigua.<br><br>Escuela: Letras<br>Docente: Verónica Orqueda<br><br>Palabras clave: Cultura india, Lengua sánscrita, Literatura hinduista, Lenguas y culturas"
+    },
+    {
+    "name": "Técnicas de Síntesis y Procesamiento de Sonido",
+    "code": "MUC865",
+    "about": "El curso trabaja técnicas de síntesis y procesamiento digital de sonido, abarcando desde la digitalización y muestreo de audio hasta los efectos para su procesamiento (delay, reverb, chorus, pitch shifting, etc), pasando por distintos métodos de síntesis y modulaciones (Síntesis granular, vocoder, waveshaping, etc). Todo esto se trabaja con los sotware SuperCollider, Max y PureData.<br><br>Escuela: Música<br>Docente: Rodrigo Cadiz<br><br>Palabras clave: Audio digital, Síntesias de audio, Sonido"
+    }
+]
+
+
